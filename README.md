@@ -5,5 +5,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning at Programming Hero!
 - 👯 I’m interested in MERN stack.
-- 🥅 2021 Goals: TypeScript, Next.js, GraphQL
+- 🥅 2024 Goals: TypeScript, Next.js, GraphQL
 - ⚡ Fun fact:I love to Explore in the world
