@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m interested in MERN stack.
 - 🥅 2024 Goals: TypeScript, Next.js, GraphQL
 - ⚡ Fun fact:I love to Explore in the world
-<h3 align="center">A passionate Frontend developer | MERN stack from developer Bangladesh</h3>
+<h3 align="center">A passionate Frontend developer | MERN stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmunna12&label=Profile%20views&color=0e75b6&style=flat" alt="mhmunna12" /> </p>
 
